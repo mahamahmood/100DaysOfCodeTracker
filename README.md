@@ -9,7 +9,7 @@
 ## My Repos
  1. [Challenges Repo](https://github.com/mahamahmood/challenges)
  1. [project 1 code front-end](https://github.com/mahamahmood/donations_app_client)
-  1. [project 1 code front-end](https://github.com/mahamahmood/donations_app_api)
+  1. [project 1 code back-end](https://github.com/mahamahmood/donations_app_api)
  1. [project 2 code]()
  1. [project 3 code]()
  1. [project 4 code]()
